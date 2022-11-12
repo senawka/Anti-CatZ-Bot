@@ -3,7 +3,7 @@ import discord, random, time
 from discord.ext import commands
 
 client = discord.Client()
-TOKEN = 'MTA0MDkyODA1ODk4NDYyODMzNA.GnOSnr._utt9PwesoNFR-o0MMgbhd2v7gYK62nKqWZJ9I'
+TOKEN = ''
 
 
 #Discord Role
